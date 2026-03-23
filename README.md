@@ -1,4 +1,7 @@
-# 🖥️ Born2beroot — 42 Project | 125/125
+# 🖥️ Born2beroot
+
+![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)
+![42](https://img.shields.io/badge/42-Project-black)
 
 ## 📌 Project Goal
 
